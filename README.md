@@ -1,6 +1,6 @@
 # RealYou – 리얼타임 인터렉티브 투표 콘텐츠
 
-<img src="https://github.com/user-attachments/assets/a3bf1bad-9108-4ab2-b37c-9255b871313b" alt="RealYou Main Image" width="600"/>
+<img src="https://github.com/user-attachments/assets/96e783d9-b377-4153-99e5-7cd02d419d32" alt="RealYou Main Image" width="600"/>
 
 
 ### 🖊️ 요약
