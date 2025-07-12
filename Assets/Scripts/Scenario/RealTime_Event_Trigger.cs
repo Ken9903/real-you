@@ -108,7 +108,7 @@ public class RealTime_Event_Trigger : MonoBehaviour
             TimeSpan nextTimeSpan = new TimeSpan(0, 0, 0, triggerTime[i]);
             localNotification_main.AddLocalNotification(nextTimeSpan - (DateTime.Now - startTime), triggerTime[i], i, startTime);
         }
-        Debug.Log("알람 푸쉬 완료");
+        Debug.Log("알림 푸쉬 완료");
         yield return null;
 
     }
